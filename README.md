@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ushani Hettigamage</h1>
+<h1 align="center">Hello 👋, I'm Ushani Hettigamage </h1>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ushani000&label=Profile%20views&color=0e75b6&style=flat" alt="ushani000" /> </p>
 
 
 
-- 📫 How to reach me **ushani.novadev@gmail.com**
-
-
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;Full-stack+Web+and+App+developer;A+passionate+self+learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;Full-stack+Web+and+App+developer;A+passionate+self+learner">
+  </a>
 </p>
 
 ---
@@ -62,14 +58,23 @@
 </table>
 
 ---
+
 <h3 align="center">Connect with me</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:ushani.novadev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
-</p>
 
+  <br/>
+
+  <div>ushani.novadev@gmail.com</div>
+
+</div>
