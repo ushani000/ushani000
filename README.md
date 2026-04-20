@@ -8,7 +8,11 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **ushani.novadev@gmail.com**
+
+
+
 ---
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;Full-stack+Web+and+App+developer;A+passionate+self+learner"></a>
