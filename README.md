@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ushani</h1>
-<h3 align="center">A passionate web developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Ushani Hettigamage</h1>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ushani000&label=Profile%20views&color=0e75b6&style=flat" alt="ushani000" /> </p>
 
-- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **ushani.novadev@gmail.com**
 
 
 
 ---
-<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" />
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Graduate;Full-stack+Web+and+App+developer;A+passionate+self+learner"></a>
